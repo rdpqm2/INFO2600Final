@@ -2,7 +2,7 @@
 Final Project: Digital Video Concept Tutorial
 ### Digital Video Upload Tutorial
 
-Author: Rahil PAtel
+Author: Rahil Patel
 
 Summary: To teach those about displays and video techniques and how to upload a video to Youtube from their devices.
 
